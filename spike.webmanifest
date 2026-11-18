@@ -1,0 +1,17 @@
+{
+  "id": "./spike.html",
+  "name": "Allezo phone test",
+  "short_name": "Allezo Test",
+  "description": "Allezo Phase 0 web-platform spike: camera, recording, storage and speed checks.",
+  "start_url": "./spike.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#0B1F3A",
+  "background_color": "#0B1F3A",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
